@@ -1,5 +1,0 @@
-1. Para que el primer caso genere 9 consultas, debo tener 8 registros en cada tabla. (employee_1.png)
-
-2. El segundo caso genera 9 queries (employee_2.png)
-
-3. El tercer caso genera 2 queries (employee_3.png)

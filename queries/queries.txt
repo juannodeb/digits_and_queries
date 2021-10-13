@@ -1,0 +1,5 @@
+1. For the 1st case to generate 9 queries, I'd need to have 8 records per table. (employee_1.png)
+
+2. The 2nd case generates 9 queries. (employee_2.png)
+
+3. The 3rd case generates 2 queries. (employee_3.png)
