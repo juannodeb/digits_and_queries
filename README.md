@@ -9,7 +9,8 @@ The Digits & Queries repository has a couple of ruby files:
 
 [digitsGame](https://github.com/juannodeb/digits_and_queries/blob/master/digitsGame.rb) would be the game version of it, where the program asks the user to type any number they'd want and just like digits, it would return the one-digit number from the sum of the given number.
 
-On the other hand, there's [queries](https://github.com/juannodeb/digits_and_queries/blob/master/queries.txt) a txt file with the answers of how many queries will be generated after each block of code is executed (images to support my answers are within the queries folder)
+On the other hand, there's [queries](https://github.com/juannodeb/digits_and_queries/blob/master/queries.txt) a txt file with the answers of how many queries will be generated after each block of code is executed (images to support my answers are within the queries folder).
+
 ---
 
 ### How to use
